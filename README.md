@@ -20,5 +20,5 @@ In software development, a use case diagram is a graphic representation that sho
 <details>
 <summary> Waterfall model consists of the following phases: </summary>
 
-![StudentUseCaseDiagram](StudentUseCaseDiagram.png)
+![StudentUseCaseDiagram](<Student Use Case Daigram.png>)
 </details>
