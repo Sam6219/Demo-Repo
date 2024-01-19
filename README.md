@@ -49,6 +49,12 @@ Stimulus | Attempting to rent a book for a student with insufficient balance, Tr
 Response | Displaying a notification for insufficient balance during book rental, Preventing the deletion of a student account with outstanding late fees, Restricting access to functionalities based on staff roles, Validating book details to avoid errors during the rental process.
 Comments | Implement a robust authentication and authorization system, Ensure proper handling of financial transactions for balance updates, Consider implementing a confirmation step for critical actions like account deletion, Provide a comprehensive error-handling mechanism to guide users in case of issues.
 
+<details>
+<summary> Waterfall model consists of the following phases: </summary>
+
+![StudentUseCaseDiagram](<Student Use Case Daigram.png>)
+</details>
+  
 ## Sequence Diagram
 
 ## Class Diagram
