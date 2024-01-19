@@ -40,7 +40,7 @@ Data | Login details of student (username and password), Search history, Rented 
 Stimulus | Entering invalid login credentials, Attempting to pay off late fees without any late fees being accrued, Trying to rent a book that is not available Attempting to access restricted account information.
 Response | Displaying appropriate error messages for invalid login attempts, Providing feedback when attempting to pay off non-existing late fees, Notifying if a requested book is unavailable for rent, Implementing access controls to restrict unauthorized access.
 Comments | Include password recovery or reset functionality for forgotten passwords, Consider implementing a session timeout for security, Validate and sanitize user inputs to prevent potential security vulnerabilities, Implement logging for login attempts and critical actions for auditing purposes.
-----
+
 | Actor | Staff |
 |-------|-------|
 Description | Staff can login in their account, Staff can check their account as well as any students account, Staff can check their balance as well as student’s balance,Student can search books, Staff can rent books for student, Staff can payoff late fee, delete any student’s account. 
